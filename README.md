@@ -32,5 +32,5 @@ Contributions are welcome! If you would like to contribute to this project, foll
 
 For any questions or suggestions, feel free to contact me:
 
-- **Email**: kaylee.kihm@gmail.com
-- **GitHub**: https://github.com/kaylee-k
+- **Email**: ameliekihm@gmail.com
+- **GitHub**: https://github.com/ameliekihm
