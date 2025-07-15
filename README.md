@@ -15,7 +15,7 @@ This project is designed as a basic login screen template for mobile application
 
 ## Preview
 <p align="center">
- <img src="https://github.com/user-attachments/assets/cb0ef468-32cc-4bbe-a519-e61712969f38" style="max-width: 100%; height: auto;">
+ <img width="700" height="800" alt="Image" src="https://github.com/user-attachments/assets/b7e442ba-817f-4306-adcb-29276441471f" />
 </p>
 
 ## Contributing
